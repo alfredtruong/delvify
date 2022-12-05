@@ -1,26 +1,26 @@
 # NOTEBOOK OVERVIEW
-quick reference notebooks
-  future_directions.ipynb                 = project summary + ideas for future directions
-  example_queries.ipynb                   = ProductSearch().query()  usage tutorial
+- quick reference notebooks
+  - future_directions.ipynb                 = project summary + ideas for future directions
+  - example_queries.ipynb                   = ProductSearch().query()  usage tutorial
 
-class definitions
-  class_Dataset.ipynb                     = class to handle data
-  class_TokenSearch.ipynb                 = class to grep search tokens
-  class_NeighbourSearch.ipynb             = class to perform nearest-neighbour searching
-  class_ImageSearch.ipynb                 = class to perform image distance metrics
-  class_ProductSearch.ipynb               = class to string everything together to do queries
+- class definitions
+  - class_Dataset.ipynb                     = class to handle data
+  - class_TokenSearch.ipynb                 = class to grep search tokens
+  - class_NeighbourSearch.ipynb             = class to perform nearest-neighbour searching
+  - class_ImageSearch.ipynb                 = class to perform image distance metrics
+  - class_ProductSearch.ipynb               = class to string everything together to do queries
 
-generic Jupyter notebook prepping
-  ipynb_setup.ipynb                       = admin notebook for bookkeeping
+- generic Jupyter notebook prepping
+  - ipynb_setup.ipynb                       = admin notebook for bookkeeping
 
-exploratory dabbling notebooks
-  exploration.ipynb                       = initial exploratory analysis
-  text_search.ipynb                       = building + testing of TokenSearch() functions
-  img_features.ipynb                      = building + testing of ImageSearch() functions
-  ml_aggcluster.ipynb                     = considering usage of agglomerative clustering
-  ml_kmeans.ipynb                         = considering usage of k-means
-  ml_NearestNeighbors.ipynb               = considering usage of k-nearest neighbours
-  ml_pca.ipynb                            = considering usage of PCA
+- exploratory dabbling notebooks
+  - exploration.ipynb                       = initial exploratory analysis
+  - text_search.ipynb                       = building + testing of TokenSearch() functions
+  - img_features.ipynb                      = building + testing of ImageSearch() functions
+  - ml_aggcluster.ipynb                     = considering usage of agglomerative clustering
+  - ml_kmeans.ipynb                         = considering usage of k-means
+  - ml_NearestNeighbors.ipynb               = considering usage of k-nearest neighbours
+  - ml_pca.ipynb                            = considering usage of PCA
 
 # FUTURE DIRECTIONS
 - `lemmatization` within `TokenSearch` class
